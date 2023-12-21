@@ -1,1 +1,1 @@
-# Boggle-Game-Java
+Given a grid size assigned by the player, the game is played using a grid of lettered dice, in which players look for words in sequences of adjacent letters. After the player types down the words that are found, the rest is found by the computer and added to its score, which gives the player the chance to compete against the computer. 
